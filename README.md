@@ -17,4 +17,3 @@ This tool will allow users to:
 📅 Session Logs: Keep a history of task durations to monitor performance over time.
 🔔 Timer Alerts: Set custom notifications to remind you when time's up or break intervals.
 Stay tuned for the next update that will make task management even more powerful and efficient! 🚀
-
