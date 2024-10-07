@@ -7,9 +7,8 @@ Welcome to **UX/UI Scrum Manager**! 🎉
 This application is a **dynamic task management tool** designed to help companies **organize and track their tasks** efficiently, combining a sleek **UI/UX** experience with powerful functionality. 💻🔧
 
 ## 🌟 **Key Features**:
-- 📝 **Task List**: Effortlessly add, update, and delete tasks as you manage your projects.
-- 🎨 **Responsive Design**: Built with **HTML**, **Bootstrap**, and **JavaScript** for a seamless experience across all devices.
-- 📊 **Real-Time Updates**: A live task board that keeps everyone in sync.
+- 📝 **Task List**: Effortlessly add, update, and delete tasks as you manage your projects. **All data is saved from session to session** for uninterrupted workflow.
+- 🎨 **Responsive Design**: Built with **HTML**, **Bootstrap**, and **JavaScript** for a seamless experience across all devices. **Everything is preserved between sessions**.
 
 # ⏳ **Coming Soon: Time Tracker** ⏳
 One of our exciting upcoming features is a **time counter**!  
