@@ -1,20 +1,24 @@
+# Bootstrap SCRUM Task Manager 🚀📊
 
-![manager](https://github.com/user-attachments/assets/8376e6f7-e825-4eed-a9f6-07e440bb0138)
+## Overview
 
-# 📋 **UX/UI Scrum Manager** 🚀
+This project is a responsive SCRUM Task Manager web application built with Bootstrap and vanilla JavaScript. It provides a user-friendly interface for managing tasks across three main states: TO DO, IN PROGRESS, and DONE. The application is designed to be intuitive, efficient, and suitable for agile teams in the technology sector.
 
-Welcome to **UX/UI Scrum Manager**! 🎉  
-This application is a **dynamic task management tool** designed to help companies **organize and track their tasks** efficiently, combining a sleek **UI/UX** experience with powerful functionality. 💻🔧
+## 🌟 Key Features
 
-## 🌟 **Key Features**:
-- 📝 **Task List**: Effortlessly add, update, and delete tasks as you manage your projects. **All data is saved from session to session** for uninterrupted workflow.
-- 🎨 **Responsive Design**: Built with **HTML**, **Bootstrap**, and **JavaScript** for a seamless experience across all devices. **Everything is preserved between sessions**.
+- **Responsive Design**: Utilizes Bootstrap for a mobile-first, responsive layout 📱💻
+- **Dynamic Task Management**: Add, edit, and delete tasks with real-time updates 🔄
+- **Status Tracking**: Easily move tasks between TO DO, IN PROGRESS, and DONE states 📊
+- **Task Counters**: Visual counters for each column to quickly assess workload 🔢
+- **Local Storage**: Persists tasks locally for seamless user experience across sessions 💾
+- **Modal Form**: User-friendly modal for adding and editing tasks 📝
+- **Clean UI**: Minimalist design focusing on functionality and ease of use 🎨
 
-# ⏳ **Coming Soon: Time Tracker** ⏳
-One of our exciting upcoming features is a **time counter**!  
-This tool will allow users to:
-- ⏲️ **Track Time**: Measure the time spent on each task to improve productivity and project management.
-- 📅 **Session Logs**: Keep a history of task durations to monitor performance over time.
-- 🔔 **Timer Alerts**: Set custom notifications to remind you when time's up or break intervals.
+## 🛠️ Technologies Used
 
-Stay tuned for the next update that will make task management even more powerful and efficient! 🚀
+- HTML5
+- CSS3 (with Bootstrap 5)
+- JavaScript (ES6+)
+- Local Storage API
+
+## 💻 Project Structure
